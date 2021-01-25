@@ -1,5 +1,6 @@
 # Contributors
 - Dax Patel (https://github.com/letapxad)
+- Hagai Kraus (https://github.com/krauson)
 - Mark Foster (https://github.com/markfoster314)
 - Arshia Soleimani (https://github.com/arshiyasoleimani)
 - Ryuki Kuga (https://github.com/ryukikikie)
